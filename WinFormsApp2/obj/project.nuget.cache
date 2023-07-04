@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "gEOWwDKrKTIgSqHN9abTZ0/lsmYnNxzkYyYFIkEON9JsSY5Kmxsg4QI2/suDGhtMbrA7tqceYW3neutfnMPbEg==",
+  "success": true,
+  "projectFilePath": "D:\\Need krch\\Работа\\Обратная матрица\\WinFormsApp2\\WinFormsApp2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cdkaw\\.nuget\\packages\\documentformat.openxml\\2.20.0\\documentformat.openxml.2.20.0.nupkg.sha512",
+    "C:\\Users\\cdkaw\\.nuget\\packages\\mathnet.numerics\\5.0.0\\mathnet.numerics.5.0.0.nupkg.sha512",
+    "C:\\Users\\cdkaw\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

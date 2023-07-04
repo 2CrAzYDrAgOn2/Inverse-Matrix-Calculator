@@ -1,0 +1,104 @@
+C:\Users\cdkaw\source\repos\WinFormsApp2\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.exe
+C:\Users\cdkaw\source\repos\WinFormsApp2\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.deps.json
+C:\Users\cdkaw\source\repos\WinFormsApp2\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.runtimeconfig.json
+C:\Users\cdkaw\source\repos\WinFormsApp2\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.dll
+C:\Users\cdkaw\source\repos\WinFormsApp2\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.pdb
+C:\Users\cdkaw\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.csproj.AssemblyReference.cache
+C:\Users\cdkaw\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.csproj.GenerateResource.cache
+C:\Users\cdkaw\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cdkaw\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.AssemblyInfoInputs.cache
+C:\Users\cdkaw\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.AssemblyInfo.cs
+C:\Users\cdkaw\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\cdkaw\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.dll
+C:\Users\cdkaw\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\refint\WinFormsApp2.dll
+C:\Users\cdkaw\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.pdb
+C:\Users\cdkaw\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.genruntimeconfig.cache
+C:\Users\cdkaw\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\ref\WinFormsApp2.dll
+C:\Users\cdkaw\source\repos\WinFormsApp2\WinFormsApp2\bin\Debug\net6.0-windows\MathNet.Numerics.dll
+C:\Users\cdkaw\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Word.dll
+C:\Users\cdkaw\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\cdkaw\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.csproj.ResolveComReference.cache
+C:\Users\cdkaw\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.MainForm.resources
+C:\Users\cdkaw\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.csproj.CopyComplete
+C:\Users\117-10\Desktop\WinFormsApp2\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.exe
+C:\Users\117-10\Desktop\WinFormsApp2\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.deps.json
+C:\Users\117-10\Desktop\WinFormsApp2\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.runtimeconfig.json
+C:\Users\117-10\Desktop\WinFormsApp2\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.dll
+C:\Users\117-10\Desktop\WinFormsApp2\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.pdb
+C:\Users\117-10\Desktop\WinFormsApp2\WinFormsApp2\bin\Debug\net6.0-windows\MathNet.Numerics.dll
+C:\Users\117-10\Desktop\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.csproj.AssemblyReference.cache
+C:\Users\117-10\Desktop\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Word.dll
+C:\Users\117-10\Desktop\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\117-10\Desktop\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.csproj.ResolveComReference.cache
+C:\Users\117-10\Desktop\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.MainForm.resources
+C:\Users\117-10\Desktop\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.csproj.GenerateResource.cache
+C:\Users\117-10\Desktop\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\117-10\Desktop\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.AssemblyInfoInputs.cache
+C:\Users\117-10\Desktop\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.AssemblyInfo.cs
+C:\Users\117-10\Desktop\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\117-10\Desktop\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.csproj.CopyComplete
+C:\Users\117-10\Desktop\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.dll
+C:\Users\117-10\Desktop\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\refint\WinFormsApp2.dll
+C:\Users\117-10\Desktop\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.pdb
+C:\Users\117-10\Desktop\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.genruntimeconfig.cache
+C:\Users\117-10\Desktop\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\ref\WinFormsApp2.dll
+C:\Users\cdkaw\OneDrive\Рабочий стол\Шмаков\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.exe
+C:\Users\cdkaw\OneDrive\Рабочий стол\Шмаков\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.deps.json
+C:\Users\cdkaw\OneDrive\Рабочий стол\Шмаков\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.runtimeconfig.json
+C:\Users\cdkaw\OneDrive\Рабочий стол\Шмаков\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.dll
+C:\Users\cdkaw\OneDrive\Рабочий стол\Шмаков\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.pdb
+C:\Users\cdkaw\OneDrive\Рабочий стол\Шмаков\WinFormsApp2\bin\Debug\net6.0-windows\MathNet.Numerics.dll
+C:\Users\cdkaw\OneDrive\Рабочий стол\Шмаков\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.csproj.AssemblyReference.cache
+C:\Users\cdkaw\OneDrive\Рабочий стол\Шмаков\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.MainForm.resources
+C:\Users\cdkaw\OneDrive\Рабочий стол\Шмаков\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.csproj.GenerateResource.cache
+C:\Users\cdkaw\OneDrive\Рабочий стол\Шмаков\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cdkaw\OneDrive\Рабочий стол\Шмаков\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.AssemblyInfoInputs.cache
+C:\Users\cdkaw\OneDrive\Рабочий стол\Шмаков\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.AssemblyInfo.cs
+C:\Users\cdkaw\OneDrive\Рабочий стол\Шмаков\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\cdkaw\OneDrive\Рабочий стол\Шмаков\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.csproj.CopyComplete
+C:\Users\cdkaw\OneDrive\Рабочий стол\Шмаков\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.dll
+C:\Users\cdkaw\OneDrive\Рабочий стол\Шмаков\WinFormsApp2\obj\Debug\net6.0-windows\refint\WinFormsApp2.dll
+C:\Users\cdkaw\OneDrive\Рабочий стол\Шмаков\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.pdb
+C:\Users\cdkaw\OneDrive\Рабочий стол\Шмаков\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.genruntimeconfig.cache
+C:\Users\cdkaw\OneDrive\Рабочий стол\Шмаков\WinFormsApp2\obj\Debug\net6.0-windows\ref\WinFormsApp2.dll
+C:\Users\cdkaw\OneDrive\Рабочий стол\Шмаков\WinFormsApp2\bin\Debug\net6.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\cdkaw\OneDrive\Рабочий стол\Обратная матрица\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.exe
+C:\Users\cdkaw\OneDrive\Рабочий стол\Обратная матрица\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.deps.json
+C:\Users\cdkaw\OneDrive\Рабочий стол\Обратная матрица\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.runtimeconfig.json
+C:\Users\cdkaw\OneDrive\Рабочий стол\Обратная матрица\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.dll
+C:\Users\cdkaw\OneDrive\Рабочий стол\Обратная матрица\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.pdb
+C:\Users\cdkaw\OneDrive\Рабочий стол\Обратная матрица\WinFormsApp2\bin\Debug\net6.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\cdkaw\OneDrive\Рабочий стол\Обратная матрица\WinFormsApp2\bin\Debug\net6.0-windows\MathNet.Numerics.dll
+C:\Users\cdkaw\OneDrive\Рабочий стол\Обратная матрица\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.csproj.AssemblyReference.cache
+C:\Users\cdkaw\OneDrive\Рабочий стол\Обратная матрица\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.MainForm.resources
+C:\Users\cdkaw\OneDrive\Рабочий стол\Обратная матрица\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.csproj.GenerateResource.cache
+C:\Users\cdkaw\OneDrive\Рабочий стол\Обратная матрица\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cdkaw\OneDrive\Рабочий стол\Обратная матрица\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.AssemblyInfoInputs.cache
+C:\Users\cdkaw\OneDrive\Рабочий стол\Обратная матрица\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.AssemblyInfo.cs
+C:\Users\cdkaw\OneDrive\Рабочий стол\Обратная матрица\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\cdkaw\OneDrive\Рабочий стол\Обратная матрица\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.csproj.CopyComplete
+C:\Users\cdkaw\OneDrive\Рабочий стол\Обратная матрица\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.dll
+C:\Users\cdkaw\OneDrive\Рабочий стол\Обратная матрица\WinFormsApp2\obj\Debug\net6.0-windows\refint\WinFormsApp2.dll
+C:\Users\cdkaw\OneDrive\Рабочий стол\Обратная матрица\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.pdb
+C:\Users\cdkaw\OneDrive\Рабочий стол\Обратная матрица\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.genruntimeconfig.cache
+C:\Users\cdkaw\OneDrive\Рабочий стол\Обратная матрица\WinFormsApp2\obj\Debug\net6.0-windows\ref\WinFormsApp2.dll
+D:\Need krch\Работа\Обратная матрица\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.exe
+D:\Need krch\Работа\Обратная матрица\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.deps.json
+D:\Need krch\Работа\Обратная матрица\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.runtimeconfig.json
+D:\Need krch\Работа\Обратная матрица\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.dll
+D:\Need krch\Работа\Обратная матрица\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.pdb
+D:\Need krch\Работа\Обратная матрица\WinFormsApp2\bin\Debug\net6.0-windows\DocumentFormat.OpenXml.dll
+D:\Need krch\Работа\Обратная матрица\WinFormsApp2\bin\Debug\net6.0-windows\MathNet.Numerics.dll
+D:\Need krch\Работа\Обратная матрица\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.csproj.AssemblyReference.cache
+D:\Need krch\Работа\Обратная матрица\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.MainForm.resources
+D:\Need krch\Работа\Обратная матрица\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.csproj.GenerateResource.cache
+D:\Need krch\Работа\Обратная матрица\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Need krch\Работа\Обратная матрица\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.AssemblyInfoInputs.cache
+D:\Need krch\Работа\Обратная матрица\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.AssemblyInfo.cs
+D:\Need krch\Работа\Обратная матрица\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.csproj.CoreCompileInputs.cache
+D:\Need krch\Работа\Обратная матрица\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.csproj.CopyComplete
+D:\Need krch\Работа\Обратная матрица\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.dll
+D:\Need krch\Работа\Обратная матрица\WinFormsApp2\obj\Debug\net6.0-windows\refint\WinFormsApp2.dll
+D:\Need krch\Работа\Обратная матрица\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.pdb
+D:\Need krch\Работа\Обратная матрица\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.genruntimeconfig.cache
+D:\Need krch\Работа\Обратная матрица\WinFormsApp2\obj\Debug\net6.0-windows\ref\WinFormsApp2.dll
